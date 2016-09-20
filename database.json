@@ -8,17 +8,15 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/898b4ba26a6b63b3ed7687f0f3ecba5b.git:javaCad.groovy": [
-      "https://gist.github.com/898b4ba26a6b63b3ed7687f0f3ecba5b.git",
-      "javaCad.groovy"
-    ],
-    "https://gist.github.com/d68baecb16fbfa672ebb8397da970bf6.git:helloWorld.groovy": [
-      "https://gist.github.com/d68baecb16fbfa672ebb8397da970bf6.git",
-      "helloWorld.groovy"
-    ],
-    "https://gist.github.com/9eed730005b8b9f5261f0b67abbce8a8.git:cube.groovy": [
-      "https://gist.github.com/9eed730005b8b9f5261f0b67abbce8a8.git",
-      "cube.groovy"
+    "https://gist.github.com/92c7d13756b56808be3b0bc43cde05cc.git:measurement.groovy": [
+      "https://gist.github.com/92c7d13756b56808be3b0bc43cde05cc.git",
+      "measurement.groovy"
     ]
+  },
+  "BowlerStudioConfigs": {
+    "firstVersion": "0.19.3",
+    "skinBranch": "master",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "currentVersion": "0.19.3"
   }
 }
