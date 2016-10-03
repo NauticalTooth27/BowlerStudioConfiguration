@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/20e4bc990b0be6c8fd62e75abc5ebcf1.git:VitaminsExample.groovy": [
+      "https://gist.github.com/20e4bc990b0be6c8fd62e75abc5ebcf1.git",
+      "VitaminsExample.groovy"
+    ],
     "https://gist.github.com/5a19b5d428e42079a9866b191ed53ab1.git:FlatPuzzle.groovy": [
       "https://gist.github.com/5a19b5d428e42079a9866b191ed53ab1.git",
       "FlatPuzzle.groovy"
