@@ -16,6 +16,10 @@
       "https://gist.github.com/5a19b5d428e42079a9866b191ed53ab1.git",
       "FlatPuzzle.groovy"
     ],
+    "https://gist.github.com/d996ae086343021c92b14d09792a4598.git:FlatPuzzleAssignment.groovy": [
+      "https://gist.github.com/d996ae086343021c92b14d09792a4598.git",
+      "FlatPuzzleAssignment.groovy"
+    ],
     "https://gist.github.com/92c7d13756b56808be3b0bc43cde05cc.git:measurement.groovy": [
       "https://gist.github.com/92c7d13756b56808be3b0bc43cde05cc.git",
       "measurement.groovy"
