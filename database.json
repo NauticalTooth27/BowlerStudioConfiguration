@@ -8,9 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/20e4bc990b0be6c8fd62e75abc5ebcf1.git:VitaminsExample.groovy": [
-      "https://gist.github.com/20e4bc990b0be6c8fd62e75abc5ebcf1.git",
-      "VitaminsExample.groovy"
+    "https://gist.github.com/375b47a8e071608688a1.git:Walking.groovy": [
+      "https://gist.github.com/375b47a8e071608688a1.git",
+      "Walking.groovy"
     ],
     "https://gist.github.com/5a19b5d428e42079a9866b191ed53ab1.git:FlatPuzzle.groovy": [
       "https://gist.github.com/5a19b5d428e42079a9866b191ed53ab1.git",
@@ -28,13 +28,9 @@
       "https://github.com/NauticalTooth27/Hardware-Dimensions.git",
       "json/vexSpacer.json"
     ],
-    "https://gist.github.com/92c7d13756b56808be3b0bc43cde05cc.git:measurement.groovy": [
-      "https://gist.github.com/92c7d13756b56808be3b0bc43cde05cc.git",
-      "measurement.groovy"
-    ],
-    "https://gist.github.com/ea29a6141e6fe1c3dcac614ee039e3fb.git:AnimatronicHead.groovy": [
-      "https://gist.github.com/ea29a6141e6fe1c3dcac614ee039e3fb.git",
-      "AnimatronicHead.groovy"
+    "https://github.com/madhephaestus/laser-cut-robot.git:laserCutCad.groovy": [
+      "https://github.com/madhephaestus/laser-cut-robot.git",
+      "laserCutCad.groovy"
     ],
     "https://gist.github.com/47b89b89b0ef9acac6f6cbd85093b017.git:BasicBowlerDevice.groovy": [
       "https://gist.github.com/47b89b89b0ef9acac6f6cbd85093b017.git",
@@ -43,6 +39,26 @@
     "https://gist.github.com/c56a13798a3d201f6c4b1d2b6cbafc10.git:ArduinoDyIO.groovy": [
       "https://gist.github.com/c56a13798a3d201f6c4b1d2b6cbafc10.git",
       "ArduinoDyIO.groovy"
+    ],
+    "https://gist.github.com/20e4bc990b0be6c8fd62e75abc5ebcf1.git:VitaminsExample.groovy": [
+      "https://gist.github.com/20e4bc990b0be6c8fd62e75abc5ebcf1.git",
+      "VitaminsExample.groovy"
+    ],
+    "https://github.com/NauticalTooth27/laser-cut-robot.git:LaserCutDog.xml": [
+      "https://github.com/NauticalTooth27/laser-cut-robot.git",
+      "LaserCutDog.xml"
+    ],
+    "https://gist.github.com/92c7d13756b56808be3b0bc43cde05cc.git:measurement.groovy": [
+      "https://gist.github.com/92c7d13756b56808be3b0bc43cde05cc.git",
+      "measurement.groovy"
+    ],
+    "https://gist.github.com/ea29a6141e6fe1c3dcac614ee039e3fb.git:AnimatronicHead.groovy": [
+      "https://gist.github.com/ea29a6141e6fe1c3dcac614ee039e3fb.git",
+      "AnimatronicHead.groovy"
+    ],
+    ":": [
+      "",
+      ""
     ]
   },
   "BowlerStudioConfigs": {
