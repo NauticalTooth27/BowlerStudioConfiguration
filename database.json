@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/bcb4760a449190206170.git:ThreeDPrintCad.groovy": [
+      "https://gist.github.com/bcb4760a449190206170.git",
+      "ThreeDPrintCad.groovy"
+    ],
     "https://github.com/NauticalTooth27/laser-cut-robot.git:laserCutCad.groovy": [
       "https://github.com/NauticalTooth27/laser-cut-robot.git",
       "laserCutCad.groovy"
@@ -16,13 +20,17 @@
       "https://github.com/NauticalTooth27/laser-cut-robot.git",
       "LaserCutDog.xml"
     ],
+    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
+      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
+      "LinkedCadEngine.groovy"
+    ],
+    "https://gist.github.com/5a19b5d428e42079a9866b191ed53ab1.git:FlatPuzzle.groovy": [
+      "https://gist.github.com/5a19b5d428e42079a9866b191ed53ab1.git",
+      "FlatPuzzle.groovy"
+    ],
     "https://github.com/NauticalTooth27/laser-cut-robot.git:feetCad.groovy": [
       "https://github.com/NauticalTooth27/laser-cut-robot.git",
       "feetCad.groovy"
-    ],
-    ":": [
-      "",
-      ""
     ],
     "https://github.com/NauticalTooth27/BowlerStudioConfiguration.git:database.json": [
       "https://github.com/NauticalTooth27/BowlerStudioConfiguration.git",
