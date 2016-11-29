@@ -36,6 +36,10 @@
       "https://github.com/NauticalTooth27/laser-cut-robot.git",
       "feetCad.groovy"
     ],
+    "https://gist.github.com/54a1b35498776a4904b7913c47ce0f12.git:springGenerator.groovy": [
+      "https://gist.github.com/54a1b35498776a4904b7913c47ce0f12.git",
+      "springGenerator.groovy"
+    ],
     ":": [
       "",
       ""
