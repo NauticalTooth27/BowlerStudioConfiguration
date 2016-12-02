@@ -8,45 +8,17 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/bcb4760a449190206170.git:ThreeDPrintCad.groovy": [
-      "https://gist.github.com/bcb4760a449190206170.git",
-      "ThreeDPrintCad.groovy"
-    ],
-    "https://github.com/NauticalTooth27/laser-cut-robot.git:laserCutCad.groovy": [
-      "https://github.com/NauticalTooth27/laser-cut-robot.git",
-      "laserCutCad.groovy"
-    ],
-    "https://gist.github.com/375b47a8e071608688a1.git:Walking.groovy": [
-      "https://gist.github.com/375b47a8e071608688a1.git",
-      "Walking.groovy"
-    ],
-    "https://github.com/NauticalTooth27/laser-cut-robot.git:LaserCutDog.xml": [
-      "https://github.com/NauticalTooth27/laser-cut-robot.git",
-      "LaserCutDog.xml"
-    ],
-    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
-      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
-      "LinkedCadEngine.groovy"
-    ],
-    "https://gist.github.com/5a19b5d428e42079a9866b191ed53ab1.git:FlatPuzzle.groovy": [
-      "https://gist.github.com/5a19b5d428e42079a9866b191ed53ab1.git",
-      "FlatPuzzle.groovy"
-    ],
-    "https://github.com/NauticalTooth27/laser-cut-robot.git:feetCad.groovy": [
-      "https://github.com/NauticalTooth27/laser-cut-robot.git",
+    "https://github.com/NauticalTooth27/LaserCutDogTwo.git:feetCad.groovy": [
+      "https://github.com/NauticalTooth27/LaserCutDogTwo.git",
       "feetCad.groovy"
     ],
-    "https://gist.github.com/54a1b35498776a4904b7913c47ce0f12.git:springGenerator.groovy": [
-      "https://gist.github.com/54a1b35498776a4904b7913c47ce0f12.git",
-      "springGenerator.groovy"
+    "https://github.com/NauticalTooth27/LaserCutDogTwo.git:LaserCutDog.xml": [
+      "https://github.com/NauticalTooth27/LaserCutDogTwo.git",
+      "LaserCutDog.xml"
     ],
-    ":": [
-      "",
-      ""
-    ],
-    "https://github.com/NauticalTooth27/BowlerStudioConfiguration.git:database.json": [
-      "https://github.com/NauticalTooth27/BowlerStudioConfiguration.git",
-      "database.json"
+    "https://github.com/NauticalTooth27/LaserCutDogTwo.git:laserCutCad.groovy": [
+      "https://github.com/NauticalTooth27/LaserCutDogTwo.git",
+      "laserCutCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
