@@ -32,17 +32,9 @@
       "https://gist.github.com/9eed730005b8b9f5261f0b67abbce8a8.git",
       "cube.groovy"
     ],
-    "https://gist.github.com/9ae481f9a7ffa2d7b122c112d5d842c1.git:FractalTree.groovy": [
-      "https://gist.github.com/9ae481f9a7ffa2d7b122c112d5d842c1.git",
-      "FractalTree.groovy"
-    ],
     "https://github.com/NauticalTooth27/LaserCutDogTwo.git:laserCutCad.groovy": [
       "https://github.com/NauticalTooth27/LaserCutDogTwo.git",
       "laserCutCad.groovy"
-    ],
-    "https://gist.github.com/65d7ff2e9a8383f1c5eb6472e0947da1.git:test.groovy": [
-      "https://gist.github.com/65d7ff2e9a8383f1c5eb6472e0947da1.git",
-      "test.groovy"
     ]
   },
   "BowlerStudioConfigs": {
