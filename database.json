@@ -12,6 +12,18 @@
       "https://github.com/NauticalTooth27/LaserCutDogTwo.git",
       "feetCad.groovy"
     ],
+    "https://gist.github.com/463093d2039604e2581da1fda96399ac.git:SVGExtrude.groovy": [
+      "https://gist.github.com/463093d2039604e2581da1fda96399ac.git",
+      "SVGExtrude.groovy"
+    ],
+    "https://gist.github.com/046ad638484bfe99dd07619a95937110.git:HandBezier.groovy": [
+      "https://gist.github.com/046ad638484bfe99dd07619a95937110.git",
+      "HandBezier.groovy"
+    ],
+    "https://gist.github.com/cbd6434a3cc2b9faba37262e0f93dd2b.git:ExtrudeBezierAPI.groovy": [
+      "https://gist.github.com/cbd6434a3cc2b9faba37262e0f93dd2b.git",
+      "ExtrudeBezierAPI.groovy"
+    ],
     "https://github.com/NauticalTooth27/LaserCutDogTwo.git:LaserCutDog.xml": [
       "https://github.com/NauticalTooth27/LaserCutDogTwo.git",
       "LaserCutDog.xml"
@@ -19,6 +31,10 @@
     "https://gist.github.com/9eed730005b8b9f5261f0b67abbce8a8.git:cube.groovy": [
       "https://gist.github.com/9eed730005b8b9f5261f0b67abbce8a8.git",
       "cube.groovy"
+    ],
+    "https://gist.github.com/9ae481f9a7ffa2d7b122c112d5d842c1.git:FractalTree.groovy": [
+      "https://gist.github.com/9ae481f9a7ffa2d7b122c112d5d842c1.git",
+      "FractalTree.groovy"
     ],
     "https://github.com/NauticalTooth27/LaserCutDogTwo.git:laserCutCad.groovy": [
       "https://github.com/NauticalTooth27/LaserCutDogTwo.git",
