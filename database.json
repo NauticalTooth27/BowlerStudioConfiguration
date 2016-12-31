@@ -16,17 +16,9 @@
       "https://github.com/NauticalTooth27/LaserCutDogTwo.git",
       "feetCad.groovy"
     ],
-    "https://gist.github.com/463093d2039604e2581da1fda96399ac.git:SVGExtrude.groovy": [
-      "https://gist.github.com/463093d2039604e2581da1fda96399ac.git",
-      "SVGExtrude.groovy"
-    ],
     "https://gist.github.com/046ad638484bfe99dd07619a95937110.git:HandBezier.groovy": [
       "https://gist.github.com/046ad638484bfe99dd07619a95937110.git",
       "HandBezier.groovy"
-    ],
-    "https://gist.github.com/cbd6434a3cc2b9faba37262e0f93dd2b.git:ExtrudeBezierAPI.groovy": [
-      "https://gist.github.com/cbd6434a3cc2b9faba37262e0f93dd2b.git",
-      "ExtrudeBezierAPI.groovy"
     ],
     "https://github.com/NauticalTooth27/LaserCutDogTwo.git:LaserCutDog.xml": [
       "https://github.com/NauticalTooth27/LaserCutDogTwo.git",
