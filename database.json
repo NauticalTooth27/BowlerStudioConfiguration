@@ -24,6 +24,10 @@
       "https://gist.github.com/cbd6434a3cc2b9faba37262e0f93dd2b.git",
       "ExtrudeBezierAPI.groovy"
     ],
+    "https://github.com/NauticalTooth27/LaserCutDogTwo.git:LaserCutDog.xml": [
+      "https://github.com/NauticalTooth27/LaserCutDogTwo.git",
+      "LaserCutDog.xml"
+    ],
     "https://github.com/NauticalTooth27/LaserCutDogTwo.git:laserCutCad.groovy": [
       "https://github.com/NauticalTooth27/LaserCutDogTwo.git",
       "laserCutCad.groovy"
