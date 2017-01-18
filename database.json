@@ -16,6 +16,10 @@
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "Body/BodyCad.groovy"
     ],
+    ":": [
+      "",
+      ""
+    ],
     "https://github.com/NauticalTooth27/LaserCutDogTwo.git:laserCutCad.groovy": [
       "https://github.com/NauticalTooth27/LaserCutDogTwo.git",
       "laserCutCad.groovy"
