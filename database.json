@@ -7,7 +7,16 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/20e4bc990b0be6c8fd62e75abc5ebcf1.git:VitaminsExample.groovy": [
+      "https://gist.github.com/20e4bc990b0be6c8fd62e75abc5ebcf1.git",
+      "VitaminsExample.groovy"
+    ],
+    "https://gist.github.com/3d73182122763d6ae49c64e2b1177569.git:notepad.groovy": [
+      "https://gist.github.com/3d73182122763d6ae49c64e2b1177569.git",
+      "notepad.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.3",
     "skinBranch": "0.20.4",
