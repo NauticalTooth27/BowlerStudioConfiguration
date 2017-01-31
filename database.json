@@ -12,6 +12,10 @@
       "https://gist.github.com/20e4bc990b0be6c8fd62e75abc5ebcf1.git",
       "VitaminsExample.groovy"
     ],
+    "https://github.com/DotSlash-CTF/Bulldog.git:Body/BodyCad.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "Body/BodyCad.groovy"
+    ],
     "https://gist.github.com/3d73182122763d6ae49c64e2b1177569.git:notepad.groovy": [
       "https://gist.github.com/3d73182122763d6ae49c64e2b1177569.git",
       "notepad.groovy"
