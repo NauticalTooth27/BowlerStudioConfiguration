@@ -16,6 +16,10 @@
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "Body/BodyCad.groovy"
     ],
+    "https://gist.github.com/ea29a6141e6fe1c3dcac614ee039e3fb.git:AnimatronicHead.groovy": [
+      "https://gist.github.com/ea29a6141e6fe1c3dcac614ee039e3fb.git",
+      "AnimatronicHead.groovy"
+    ],
     "https://gist.github.com/3d73182122763d6ae49c64e2b1177569.git:notepad.groovy": [
       "https://gist.github.com/3d73182122763d6ae49c64e2b1177569.git",
       "notepad.groovy"
