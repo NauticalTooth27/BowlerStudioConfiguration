@@ -8,25 +8,13 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/20e4bc990b0be6c8fd62e75abc5ebcf1.git:VitaminsExample.groovy": [
-      "https://gist.github.com/20e4bc990b0be6c8fd62e75abc5ebcf1.git",
-      "VitaminsExample.groovy"
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:Body/BodyCad.groovy": [
+    "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/laserCutCad.groovy": [
       "https://github.com/DotSlash-CTF/Bulldog.git",
-      "Body/BodyCad.groovy"
+      "FullDog/laserCutCad.groovy"
     ],
-    "https://gist.github.com/ea29a6141e6fe1c3dcac614ee039e3fb.git:AnimatronicHead.groovy": [
-      "https://gist.github.com/ea29a6141e6fe1c3dcac614ee039e3fb.git",
-      "AnimatronicHead.groovy"
-    ],
-    ":": [
-      "",
-      ""
-    ],
-    "https://gist.github.com/3d73182122763d6ae49c64e2b1177569.git:notepad.groovy": [
-      "https://gist.github.com/3d73182122763d6ae49c64e2b1177569.git",
-      "notepad.groovy"
+    "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/Dog.xml": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "FullDog/Dog.xml"
     ]
   },
   "BowlerStudioConfigs": {
