@@ -8,13 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/laser-cut-robot.git:neckCad.groovy": [
-      "https://github.com/madhephaestus/laser-cut-robot.git",
-      "neckCad.groovy"
-    ],
-    "null:DH-Solver.groovy": [
-      null,
-      "DH-Solver.groovy"
+    "https://gist.github.com/f98a8a99fd8079265ab8147b1d1d8d74.git:MiscTest.groovy": [
+      "https://gist.github.com/f98a8a99fd8079265ab8147b1d1d8d74.git",
+      "MiscTest.groovy"
     ],
     "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/laserCutCad.groovy": [
       "https://github.com/DotSlash-CTF/Bulldog.git",
