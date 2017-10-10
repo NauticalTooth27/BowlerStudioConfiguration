@@ -7,7 +7,20 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "null:WalkingEngine/bulldogWalkingEngine.groovy": [
+      null,
+      "WalkingEngine/bulldogWalkingEngine.groovy"
+    ],
+    "null:walkingGait.groovy": [
+      null,
+      "walkingGait.groovy"
+    ],
+    "null:FullDog/Dog.xml": [
+      null,
+      "FullDog/Dog.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.3",
     "fontsize": 12.0,
