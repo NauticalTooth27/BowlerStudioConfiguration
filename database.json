@@ -8,17 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "null:WalkingEngine/bulldogWalkingEngine.groovy": [
-      null,
-      "WalkingEngine/bulldogWalkingEngine.groovy"
-    ],
-    "null:walkingGait.groovy": [
-      null,
-      "walkingGait.groovy"
-    ],
-    "null:FullDog/Dog.xml": [
-      null,
-      "FullDog/Dog.xml"
+    "https://gist.github.com/e5e48dd9a5cc63e0b82f03eb47b9940b.git:hyperboloidPlates.groovy": [
+      "https://gist.github.com/e5e48dd9a5cc63e0b82f03eb47b9940b.git",
+      "hyperboloidPlates.groovy"
     ]
   },
   "BowlerStudioConfigs": {
