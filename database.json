@@ -14,7 +14,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/e5e48dd9a5cc63e0b82f03eb47b9940b.git:hyperboloidPlates.groovy": [
+      "https://gist.github.com/e5e48dd9a5cc63e0b82f03eb47b9940b.git",
+      "hyperboloidPlates.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.3",
     "fontsize": 32.0,
