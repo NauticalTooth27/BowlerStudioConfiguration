@@ -18,6 +18,14 @@
     "https://gist.github.com/e5e48dd9a5cc63e0b82f03eb47b9940b.git:hyperboloidPlates.groovy": [
       "https://gist.github.com/e5e48dd9a5cc63e0b82f03eb47b9940b.git",
       "hyperboloidPlates.groovy"
+    ],
+    "https://gist.github.com/463093d2039604e2581da1fda96399ac.git:SVGExtrude.groovy": [
+      "https://gist.github.com/463093d2039604e2581da1fda96399ac.git",
+      "SVGExtrude.groovy"
+    ],
+    "https://gist.github.com/45693bc8c848cd711a63e8f1703b484f.git:monitorShipHistory.groovy": [
+      "https://gist.github.com/45693bc8c848cd711a63e8f1703b484f.git",
+      "monitorShipHistory.groovy"
     ]
   },
   "BowlerStudioConfigs": {
