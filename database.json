@@ -23,6 +23,10 @@
       "https://gist.github.com/463093d2039604e2581da1fda96399ac.git",
       "SVGExtrude.groovy"
     ],
+    "https://gist.github.com/7ddb277fe51acf53cee31bb54931a797.git:chevronTest.groovy": [
+      "https://gist.github.com/7ddb277fe51acf53cee31bb54931a797.git",
+      "chevronTest.groovy"
+    ],
     "https://gist.github.com/2ffe71cbc9e81ca38ff1c5dd9f1b5e71.git:virginiaShipHistory.groovy": [
       "https://gist.github.com/2ffe71cbc9e81ca38ff1c5dd9f1b5e71.git",
       "virginiaShipHistory.groovy"
