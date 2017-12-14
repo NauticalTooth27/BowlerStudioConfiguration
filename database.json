@@ -27,6 +27,14 @@
       "https://gist.github.com/7ddb277fe51acf53cee31bb54931a797.git",
       "chevronTest.groovy"
     ],
+    ":": [
+      "",
+      ""
+    ],
+    "https://gist.github.com/c94e659bdf0ac8e4ce4ce407922ee51b.git:PringleRing.groovy": [
+      "https://gist.github.com/c94e659bdf0ac8e4ce4ce407922ee51b.git",
+      "PringleRing.groovy"
+    ],
     "https://gist.github.com/2ffe71cbc9e81ca38ff1c5dd9f1b5e71.git:virginiaShipHistory.groovy": [
       "https://gist.github.com/2ffe71cbc9e81ca38ff1c5dd9f1b5e71.git",
       "virginiaShipHistory.groovy"
