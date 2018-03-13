@@ -15,39 +15,15 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/e5e48dd9a5cc63e0b82f03eb47b9940b.git:hyperboloidPlates.groovy": [
-      "https://gist.github.com/e5e48dd9a5cc63e0b82f03eb47b9940b.git",
-      "hyperboloidPlates.groovy"
-    ],
-    "https://gist.github.com/463093d2039604e2581da1fda96399ac.git:SVGExtrude.groovy": [
-      "https://gist.github.com/463093d2039604e2581da1fda96399ac.git",
-      "SVGExtrude.groovy"
-    ],
-    "https://gist.github.com/7ddb277fe51acf53cee31bb54931a797.git:chevronTest.groovy": [
-      "https://gist.github.com/7ddb277fe51acf53cee31bb54931a797.git",
-      "chevronTest.groovy"
-    ],
-    ":": [
-      "",
-      ""
-    ],
-    "https://gist.github.com/c94e659bdf0ac8e4ce4ce407922ee51b.git:PringleRing.groovy": [
-      "https://gist.github.com/c94e659bdf0ac8e4ce4ce407922ee51b.git",
-      "PringleRing.groovy"
-    ],
     "https://gist.github.com/2ffe71cbc9e81ca38ff1c5dd9f1b5e71.git:virginiaShipHistory.groovy": [
       "https://gist.github.com/2ffe71cbc9e81ca38ff1c5dd9f1b5e71.git",
       "virginiaShipHistory.groovy"
-    ],
-    "https://gist.github.com/45693bc8c848cd711a63e8f1703b484f.git:monitorShipHistory.groovy": [
-      "https://gist.github.com/45693bc8c848cd711a63e8f1703b484f.git",
-      "monitorShipHistory.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.3",
-    "fontsize": 32.0,
-    "skinBranch": "0.20.8",
+    "fontsize": 12,
+    "skinBranch": "0.23.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.20.3",
     "notifiedArduinoDep": true
